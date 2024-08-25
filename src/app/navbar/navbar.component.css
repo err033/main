@@ -1,0 +1,21 @@
+nav{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    
+}
+li,a{
+    display: inline;
+    margin: 20px;
+}
+p,a{
+    margin-right: 200px;
+    text-decoration: none;
+    color: aliceblue;
+    
+    
+}
+p,li,a:hover{
+    color: brown;
+    
+}
